@@ -1,4 +1,4 @@
-# 🧩 Certificate Verification System using MERN Stack
+# 📄 Certificate Verification System using MERN Stack
 
 ![Student](https://github.com/user-attachments/assets/13511525-d14a-45f4-b7c2-d228bbb9e945)
 
